@@ -1,0 +1,12 @@
+C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication8
+--content-root=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Home\About.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Home\Contact.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Home\Index.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Shared\Error.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Shared\_Layout.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\_ViewImports.cshtml
+--file=C:\Users\Gunawan\source\repos\WebApplication8\WebApplication8\Views\_ViewStart.cshtml

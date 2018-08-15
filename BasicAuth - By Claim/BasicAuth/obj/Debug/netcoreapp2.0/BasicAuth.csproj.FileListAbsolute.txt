@@ -1,0 +1,22 @@
+D:\BasicAuth\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.deps.json
+D:\BasicAuth\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.runtimeconfig.json
+D:\BasicAuth\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.runtimeconfig.dev.json
+D:\BasicAuth\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.dll
+D:\BasicAuth\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.pdb
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.csproj.CoreCompileInputs.cache
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.AssemblyInfoInputs.cache
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.AssemblyInfo.cs
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.dll
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.pdb
+D:\BasicAuth\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.csprojResolveAssemblyReference.cache
+D:\BasicAuth - By Claim\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.deps.json
+D:\BasicAuth - By Claim\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.runtimeconfig.json
+D:\BasicAuth - By Claim\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.runtimeconfig.dev.json
+D:\BasicAuth - By Claim\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.dll
+D:\BasicAuth - By Claim\BasicAuth\bin\Debug\netcoreapp2.0\BasicAuth.pdb
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.csprojResolveAssemblyReference.cache
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.csproj.CoreCompileInputs.cache
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.AssemblyInfoInputs.cache
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.AssemblyInfo.cs
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.dll
+D:\BasicAuth - By Claim\BasicAuth\obj\Debug\netcoreapp2.0\BasicAuth.pdb
