@@ -13174,11 +13174,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\BasicAuth - By Claim\\BasicAuth\\BasicAuth.csproj",
+      "projectUniqueName": "C:\\Users\\Gunawan\\source\\repos\\NetCoreTemplate-1\\BasicAuth - By Claim\\BasicAuth\\BasicAuth.csproj",
       "projectName": "BasicAuth",
-      "projectPath": "D:\\BasicAuth - By Claim\\BasicAuth\\BasicAuth.csproj",
+      "projectPath": "C:\\Users\\Gunawan\\source\\repos\\NetCoreTemplate-1\\BasicAuth - By Claim\\BasicAuth\\BasicAuth.csproj",
       "packagesPath": "C:\\Users\\Gunawan\\.nuget\\packages\\",
-      "outputPath": "D:\\BasicAuth - By Claim\\BasicAuth\\obj\\",
+      "outputPath": "C:\\Users\\Gunawan\\source\\repos\\NetCoreTemplate-1\\BasicAuth - By Claim\\BasicAuth\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
